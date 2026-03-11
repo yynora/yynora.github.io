@@ -46,7 +46,7 @@ SQL, Python, forecasting, optimization, simulated annealing, supply chain analyt
 ### Founding Engineer — OmniGPT
 *Remote · Oct 2023 – Mar 2024*
 
-Python, SQL, ETL pipelines, data standardization, LLM systems, RAG, evaluation, retention metrics, dashboards.
+Python, SQL, ETL pipelines, data standardization, recommendation systems, LLM systems, RAG, evaluation, retention metrics, dashboards.
 
 ### Data Scientist Intern — CareersCrossroad
 *San Francisco, CA · Feb 2023 – Jul 2023*
@@ -62,21 +62,21 @@ Logistic regression, random forest, ranking models, feature engineering, Python,
 
 Multimodal LLM, LangChain, Playwright, YOLO, BLIP2, web automation, real-time data extraction, agent workflows.
 
-**Links:** [GitHub](#) · [Demo](#)
+**Links:** [GitHub](https://github.com/NoraaaaaY/Web-Agent)
 
 ### E-commerce Multi-object Recommendation Project
 *Jan 2023*
 
 Recommendation systems, reranking, conversion modeling, click modeling, behavioral features, exploratory analysis.
 
-**Links:** [GitHub](#)
+**Links:** [GitHub](https://github.com/NoraaaaaY/Ecommerce-Recommendation-System_Otto)
 
 ### Predictive Modeling of Diabetes Risk
 *Dec 2023*
 
 Predictive modeling, logistic regression, random forest, clustering, neural networks, scikit-learn, validation.
 
-**Links:** [GitHub](#)
+**Links:** [GitHub](https://github.com/NoraaaaaY/Predictive-Modeling-of-Diabetes-Risk)
 
 ---
 
@@ -103,6 +103,12 @@ GPA 3.8/4.0. Dean's List, Miller Scholar, Berkeley Hackathon Top 10, Mathematics
 **AI Systems:** LLM applications, RAG, evaluation, multimodal workflows, web agents  
 **Analytics:** Experimentation, A/B testing, causal inference, dashboarding, Tableau  
 **Data:** ETL pipelines, data cleaning, feature engineering, anomaly monitoring  
+
+---
+
+## Awards
+
+Georgia Tech Val-Sal Scholarship, Godbold Scholarship, Dean's List, Miller Scholar, Berkeley Hackathon Top 10, Mathematics Contest in Modeling Finalist.
 
 ---
 
