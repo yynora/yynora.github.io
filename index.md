@@ -114,4 +114,4 @@ Georgia Tech Val-Sal Scholarship, Godbold Scholarship, Dean's List, Miller Schol
 
 ## Resume / Links
 
-[Resume PDF](/assets/Nora_Yang_Resume.pdf) · [LinkedIn](http://www.linkedin.com/in/yynora) · [GitHub](https://github.com/yynora) · [Email](mailto:norayang@gatech.edu)
+[Resume PDF](/assets/NoraYang_resume.pdf) · [LinkedIn](http://www.linkedin.com/in/yynora) · [GitHub](https://github.com/yynora) · [Email](mailto:norayang@gatech.edu)
