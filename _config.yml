@@ -29,9 +29,6 @@ author:
   location: "Atlanta, GA / Berkeley, CA"
   email  : "norayang@gatech.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:norayang@gatech.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/yynora"
