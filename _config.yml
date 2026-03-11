@@ -23,7 +23,7 @@ permalink: /:categories/:title/
 
 author:
   name   : "Nora Yang"
-  avatar : "/assets/images/profile.jpg"
+  avatar : "assets/images/profile.png"
   bio    : "Data Scientist (Machine Learning)"
   location: "Atlanta, GA / Berkeley, CA"
   email  : "norayang@gatech.edu"
