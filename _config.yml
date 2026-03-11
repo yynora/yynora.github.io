@@ -1,6 +1,6 @@
 title: "Nora Yang"
 name: "Nora Yang"
-description: "Machine Learning Engineer | Data Scientist"
+description: "Data Scientist (Machine Learning)"
 url: "https://yynora.github.io"
 baseurl: ""
 repository: "yynora/yynora.github.io"
@@ -26,7 +26,7 @@ logo: "/assets/images/profile.jpg"
 author:
   name   : "Nora Yang"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Machine Learning Engineer | Data Scientist"
+  bio    : "Data Scientist (Machine Learning)"
   location: "Atlanta, GA / Berkeley, CA"
   email  : "norayang@gatech.edu"
   links:
