@@ -5,10 +5,19 @@
 @charset "utf-8";
 @import "minimal-mistakes";
 
+.author__avatar {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
 .author__avatar img {
   border-radius: 50%;
   display: block;
   height: 180px;
+  margin: 0 auto;
+  max-width: 180px;
+  min-width: 180px;
   object-fit: cover;
   width: 180px;
 }

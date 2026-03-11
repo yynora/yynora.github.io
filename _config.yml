@@ -4,6 +4,7 @@ description: "Data Scientist (Machine Learning)"
 url: "https://yynora.github.io"
 baseurl: ""
 repository: "yynora/yynora.github.io"
+masthead_title: "Nora Yang"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 minimal_mistakes_skin: "air"
