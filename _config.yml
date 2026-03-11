@@ -21,8 +21,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
 
-logo: "/assets/images/profile.jpg"
-
 author:
   name   : "Nora Yang"
   avatar : "/assets/images/profile.jpg"
