@@ -1,0 +1,60 @@
+title: "Nora Yang"
+name: "Nora Yang"
+description: "Machine Learning Engineer | Data Scientist"
+url: "https://yynora.github.io"
+baseurl: ""
+repository: "yynora/yynora.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+minimal_mistakes_skin: "air"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+locale: "en-US"
+timezone: "America/Los_Angeles"
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+logo: "/assets/images/profile.jpg"
+
+author:
+  name   : "Nora Yang"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Machine Learning Engineer | Data Scientist"
+  location: "Atlanta, GA / Berkeley, CA"
+  email  : "norayang@gatech.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:norayang@gatech.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "http://www.linkedin.com/in/yynora"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yynora"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/assets/Nora_Yang_Resume.pdf"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
+atom_feed:
+  hide: true
+
+search: false
+breadcrumbs: false
+words_per_minute: 200
