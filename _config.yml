@@ -27,8 +27,10 @@ author:
   avatar : "/assets/images/profile.png"
   bio    : "Data Scientist (Machine Learning)"
   location: "Atlanta, GA"
-  email  : "norayang@gatech.edu"
   links:
+    - label: "norayang@gatech.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:norayang@gatech.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/yynora"
