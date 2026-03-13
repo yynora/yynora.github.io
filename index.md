@@ -111,7 +111,8 @@ GPA 3.8/4.0. Dean's List, Miller Scholar, Berkeley Hackathon Top 10, Mathematics
 Georgia Tech Val-Sal Scholarship, Godbold Scholarship, Dean's List, Miller Scholar, Berkeley Hackathon Top 10, Mathematics Contest in Modeling Finalist.
 
 ---
-
+<!--
 ## Resume / Links
 
 [Resume PDF](/assets/NoraYang_resume%20(1).pdf) · [LinkedIn](http://www.linkedin.com/in/yynora) · [GitHub](https://github.com/yynora) · [Email](mailto:norayang@gatech.edu)
+-->

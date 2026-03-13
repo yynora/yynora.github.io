@@ -35,9 +35,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yynora"
-    - label: "Resume"
-      icon: "fas fa-fw fa-file-alt"
-      url: "/assets/NoraYang_resume%20(1).pdf"
+    # - label: "Resume"
+    #   icon: "fas fa-fw fa-file-alt"
+    #   url: "/assets/NoraYang_resume%20(1).pdf"
 
 defaults:
   - scope:
